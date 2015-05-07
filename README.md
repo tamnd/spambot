@@ -6,11 +6,11 @@
 
 A spambot written in [Go](http://golang.org) which can generate 959010951023058472367721943167851909915817013441751425706085646343613205540916821924125218448397394479087741510094625084720918095811275227398144000000000000000000000000000 unique sentences!
 
-Inspired from [http://www.reddit.com/r/programming/comments/34xjnv/bot_dumps_beautiful_uncompiled_spam_on_my_blog/](http://www.reddit.com/r/programming/comments/34xjnv/bot_dumps_beautiful_uncompiled_spam_on_my_blog/). Thanks [/u/eatonphil](http://www.reddit.com/user/eatonphil) for posting this!
+Inspired from [Bot dumps beautiful uncompiled spam on my blog](http://www.reddit.com/r/programming/comments/34xjnv/bot_dumps_beautiful_uncompiled_spam_on_my_blog/). Thanks [/u/eatonphil](http://www.reddit.com/user/eatonphil) for posting this!
 
 ## Install
 ```
-$ go get http://github.com/tamnd/spambot
+$ go get github.com/tamnd/spambot
 ```
 
 ## Usage
