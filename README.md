@@ -8,6 +8,9 @@ A spambot written in [Go](http://golang.org) which can generate 9590109510230584
 
 Inspired from [Bot dumps beautiful uncompiled spam on my blog](http://www.reddit.com/r/programming/comments/34xjnv/bot_dumps_beautiful_uncompiled_spam_on_my_blog/). Thanks [/u/eatonphil](http://www.reddit.com/user/eatonphil) for posting this!
 
+### Why I wrote this?
+I am writing a Naive Bayes spam filtering which implemented Paul Graham's algorithms and techniques for classifying spam: [www.paulgraham.com/spam.html](www.paulgraham.com/spam.html), so this program is written for generating training data. **Please do not use it for spamming purpose!**
+
 ## Install
 ```
 $ go get github.com/tamnd/spambot
